@@ -1,9 +1,12 @@
 JUSTIN PALADINES 
+
 TEMA   Java Swing
 Diseño e implementación de interfaces gráficas en Java Swing utilizando diferentes componentes (JTextField, JRadioButton, JCheckBox, JLabel y JOptionPane).
 
 Dato: en Community Intellij, no hay  Swing Form, la mejor manera para realizarlo es instalar el plugin que nos permita trabajar con interfaces
 <img width="674" height="416" alt="image" src="https://github.com/user-attachments/assets/2da4aae7-fdbe-44cd-8a4b-8abf849a8939" />
+
+
 
 FORMULARIO 1 — Operaciones Matemáticas (JTextField)
 Tema:
@@ -16,13 +19,16 @@ Indicaciones:
 •	Validar que los datos ingresados sean numéricos.
 •	Aplicar un diseño agradable.
 
-
 Evidencia:
+
+
 <img width="548" height="491" alt="image" src="https://github.com/user-attachments/assets/afc872c5-f341-4ae2-ab01-1e657fa8c3a1" />
 
 <img width="516" height="483" alt="image" src="https://github.com/user-attachments/assets/147d616e-0baf-43b7-ad9f-cd019eaba93e" />
 
 <img width="741" height="299" alt="image" src="https://github.com/user-attachments/assets/bb56a81a-2ce5-4f31-9936-eb6635ef27d8" />
+
+
 
 FORMULARIO 2 — Encuesta de Tres Preguntas (RadioButton)
 Tema:
@@ -41,6 +47,8 @@ o	¿Deseas seguir una maestria?
 •	Diseño visual ordenado y agradable.
 
 Evidencia:
+
+
 <img width="877" height="383" alt="image" src="https://github.com/user-attachments/assets/faa3981e-3c00-43b2-8655-55f78d463297" />
 
 
@@ -61,6 +69,8 @@ o	Seguridad Informática
 •	Mostrar el resultado en un JOptionPane o en un JLabel, indicando cuáles checkboxes fueron seleccionados.
 •	Dar diseño estético y limpio.
 Evidencia:
+
+
 
 <img width="808" height="433" alt="image" src="https://github.com/user-attachments/assets/2e84cac2-3b28-4292-b689-866afc9b656d" />
 
