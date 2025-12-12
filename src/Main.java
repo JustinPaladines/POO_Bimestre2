@@ -2,8 +2,7 @@ public class Main{
 
     public static void main(String [] args){
 
-        //new LoginForm();
-        new BancoForm();
+        new LoginForm();
 
     }
 
